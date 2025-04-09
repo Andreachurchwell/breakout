@@ -3,7 +3,7 @@
 
 1.  [Description](#orgcb22c9f)
     1.  [Step-by-step](#orgd28e82c)
-        1.  [Iportant convention](#orgaa3838c)
+        1.  [Important convention](#orgaa3838c)
     2.  [Add a picture](#orgbeaecc3)
 
 
@@ -26,7 +26,8 @@ request.
 
 <a id="orgaa3838c"></a>
 
-### Iportant convention
+### Important convention
+
 
 When you see `<parameter>` it is not meant to be copied literally. It
 means you should look for another directive that tells you how name
