@@ -31,7 +31,7 @@ request.
 
 When you see `<parameter>` it is not meant to be copied literally. It
 means you should look for another directive that tells you how name
-that paramer.  Here, I will use my initials "em" as the branch name.
+that parameter.  Here, I will use my initials "em" as the branch name.
 
 1.  You will use the command `git branch <name>` to create a branch
 2.  You will use the command `git checkout <name>` to create a branch
